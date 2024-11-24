@@ -1,5 +1,5 @@
 # Renuka-Chaudhary
-Hi there!
+👋 Hi there!
 I'm a pre-final year B.Tech Computer Science student passionate about technology, coding, and innovation. My journey revolves around crafting impactful projects and solving real-world problems through code.
 
 🔧 What I Do:
