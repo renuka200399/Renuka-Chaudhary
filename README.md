@@ -9,7 +9,6 @@ Software Development: Worked on projects like IoT solutions (e.g., Smart Stick f
 Research: Exploring innovative technologies like Sign Language to Text conversion.
 Community Work: Active in campus events and a proud Design Secretary & Graphic Designer at E-Cell, Sharda University.
 
-🌟 My Projects:
 
 📚 Always Learning: Staying curious and open to learning new technologies, frameworks, and trends.
 
